@@ -6,7 +6,7 @@
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
 4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+5. [License](#licensing)
 
 ## Installation <a name="installation"></a>
 
@@ -20,5 +20,5 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 
 
-## Licensing<a name="licensing"></a>
-
+## License<a name="license"></a>
+This source code is made available under the [MIT License]()
