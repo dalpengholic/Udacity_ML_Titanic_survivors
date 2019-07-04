@@ -21,4 +21,4 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 
 ## License<a name="license"></a>
-This source code is made available under the [MIT License].(https://github.com/dalpengholic/Udacity_ML_Titanic_survivors/blob/master/LICENSE)
+This source code is made available under the [MIT License].(#https://github.com/dalpengholic/Udacity_ML_Titanic_survivors/blob/master/LICENSE)
