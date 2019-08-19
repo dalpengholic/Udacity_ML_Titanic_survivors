@@ -1,8 +1,8 @@
-# Udacity Data Scientist Nanodegree program
-## Titanic Survival Exploration with Decision Trees 
-
+# Titanic Survival Exploration with Decision Trees - Udacity DSND
+Project of buidling a machine learning model based on decision trees algorithm to predict Titanic survivors
+ 
 ## Table of Contents
-1. [Description](#description)
+1. [About the Project](#about_the_project)
 2. [How to use](#how_to_use)
    1. [Dependecy](#dependency)
    2. [Install](#install)
@@ -11,9 +11,9 @@
 4. [Results](#results)
 5. [License](#licensing)
 
-<a name="description"></a>
-## Description
-This was one of first machine learning projects in 1st term of Udacity's data scientist nano degree with a Titanic dataset to predict survivors using decision trees algorithm.
+<a name="about_the_project"></a>
+## About the Project
+This was one of first machine learning projects conducted in 1st term of Udacity's data scientist nano degree. The goal of the project was to build a prediction model based on decision trees algoritm with a Titanic dataset.
 
 <a name="how_to_use"></a>
 ## How to use
