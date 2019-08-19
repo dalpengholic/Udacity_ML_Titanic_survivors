@@ -1,4 +1,5 @@
-# Titanic Survival Exploration with Decision Trees - Udacity DSND
+# Titanic Survival Exploration with Decision Trees - [Udacity DSND](https://www.udacity.com/course/data-scientist-nanodegree--nd025)
+
 Project of buidling a machine learning model based on decision trees algorithm to predict Titanic survivors
  
 ## Table of Contents
@@ -9,7 +10,7 @@ Project of buidling a machine learning model based on decision trees algorithm t
    2. [Run](#run)
 3. [File Structure](#file_structure)
 4. [Results](#results)
-5. [License](#licensing)
+5. [License](#license)
 
 <a name="about_the_project"></a>
 ## About the Project
@@ -31,7 +32,8 @@ Clone the repository below.
 1. Open a terminal and input `jupyter notebook` . Then, open `titanic_survival_exploration.ipynb` notebook.
 2. Run all the cells.
 
-## File Structure<a name="file_structure"></a>
+<a name="file_structure"></a>
+## File Structure
 ```
 ├── LICENSE
 ├── README.md
@@ -39,10 +41,11 @@ Clone the repository below.
 ├── titanic_survival_exploration.ipynb
 ```
 
-## Results<a name="results"></a>
+<a name="results"></a>
+## Results
 The Training accuracy: 0.88202247191
 The test accuracy: 0.860335195531
 
-
-## License<a name="license"></a>
+<a name="license"></a>
+## License
 This source code is made available under the [MIT License](https://github.com/dalpengholic/Udacity_ML_Titanic_survivors/blob/master/LICENSE).
