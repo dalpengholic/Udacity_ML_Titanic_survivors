@@ -7,7 +7,7 @@ Project of buidling a machine learning model based on decision trees algorithm t
    1. [Dependecy](#dependency)
    2. [Install](#install)
    2. [Run](#run)
-3. [File Descriptions](#file_descriptions)
+3. [File Structure](#file_structure)
 4. [Results](#results)
 5. [License](#licensing)
 
@@ -19,7 +19,7 @@ This was one of first machine learning projects conducted in 1st term of Udacity
 ## How to use
 <a name="dependency"></a>
 ### Dependency
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 
 <a name="install"></a>
 ### Install
@@ -31,12 +31,17 @@ Clone the repository below.
 1. Open a terminal and input `jupyter notebook` . Then, open `titanic_survival_exploration.ipynb` notebook.
 2. Run all the cells.
 
-## File Descriptions<a name="file_descriptions"></a>
-
+## File Structure<a name="file_structure"></a>
+```
+├── LICENSE
+├── README.md
+├── titanic_data.csv
+├── titanic_survival_exploration.ipynb
+```
 
 ## Results<a name="results"></a>
-The training accuracy is 0.88202247191
-The test accuracy is 0.860335195531
+The Training accuracy: 0.88202247191
+The test accuracy: 0.860335195531
 
 
 ## License<a name="license"></a>
