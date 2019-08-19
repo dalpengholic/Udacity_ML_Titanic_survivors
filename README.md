@@ -44,6 +44,7 @@ Clone the repository below.
 <a name="results"></a>
 ## Results
 The Training accuracy: 0.88202247191
+
 The test accuracy: 0.860335195531
 
 <a name="license"></a>
